@@ -11,7 +11,5 @@ Here are the instructions you should follow in the proper order.
 * after completing the initialization, run this command `npm install`
 * Everything will get installed. Meanwhile, Do some **Push Ups** or **Jumping Jacks**
 * Don't forget to point the `node_modules/` and `.sass-cache/*` to your .gitignore file.
-* 
-
 
 **Happy Grunting**
